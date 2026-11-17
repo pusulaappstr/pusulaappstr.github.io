@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pusulayds.app",
+        "sha256_cert_fingerprints": ["08:10:7E:08:DB:8E:62:AF:1A:05:A7:0F:4B:3B:52:47:68:62:05:06:94:B8:1A:B1:63:B7:8F:A6:5C:4D:61:5D"]
+      }
+    }]
