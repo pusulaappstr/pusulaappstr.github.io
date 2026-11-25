@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.pusulayds.app",
-        "sha256_cert_fingerprints": ["08:10:7E:08:DB:8E:62:AF:1A:05:A7:0F:4B:3B:52:47:68:62:05:06:94:B8:1A:B1:63:B7:8F:A6:5C:4D:61:5D"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pusulayds.app",
+      "sha256_cert_fingerprints": [
+        "1D:0A:24:23:24:D5:A2:C6:B4:86:F0:62:13:21:4F:B9:3A:2E:E2:D5:39:B3:26:09:EF:1B:62:6A:F2:B1:5A:6A",
+        "3A:9E:2E:C8:79:82:BE:A2:CF:62:27:88:83:D7:21:DF:43:48:34:92:F1:CE:68:41:31:EB:AA:35:CA:24:9B:E0"
+      ]
+    }
+  }
+]
